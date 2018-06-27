@@ -1,0 +1,16 @@
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\bin\Release\netcoreapp2.0\YouLearn.Infra.deps.json
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\bin\Release\netcoreapp2.0\YouLearn.Infra.runtimeconfig.json
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\bin\Release\netcoreapp2.0\YouLearn.Infra.runtimeconfig.dev.json
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\bin\Release\netcoreapp2.0\YouLearn.Infra.dll
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\bin\Release\netcoreapp2.0\YouLearn.Infra.pdb
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\bin\Release\netcoreapp2.0\YouLearn.Domain.dll
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\bin\Release\netcoreapp2.0\YouLearn.Shared.dll
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\bin\Release\netcoreapp2.0\YouLearn.Domain.pdb
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\bin\Release\netcoreapp2.0\YouLearn.Shared.pdb
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\obj\Release\netcoreapp2.0\YouLearn.Infra.csprojAssemblyReference.cache
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\obj\Release\netcoreapp2.0\YouLearn.Infra.csproj.CoreCompileInputs.cache
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\obj\Release\netcoreapp2.0\YouLearn.Infra.AssemblyInfoInputs.cache
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\obj\Release\netcoreapp2.0\YouLearn.Infra.AssemblyInfo.cs
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\obj\Release\netcoreapp2.0\YouLearn.Infra.csproj.CopyComplete
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\obj\Release\netcoreapp2.0\YouLearn.Infra.dll
+D:\Projetos\Curso2Ionic\YouLearn\YouLearn.Infra\obj\Release\netcoreapp2.0\YouLearn.Infra.pdb

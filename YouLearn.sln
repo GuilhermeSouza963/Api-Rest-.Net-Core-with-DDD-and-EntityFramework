@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YouLearn.Domain", "YouLearn.Domain\YouLearn.Domain.csproj", "{218627A1-A2FC-488B-BDFA-5063790EE38D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YouLearn.Infra", "YouLearn.Infra\YouLearn.Infra.csproj", "{6CF0A174-2CD7-435A-A935-8432BD00E957}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YouLearn.Shared", "YouLearn.Shared\YouLearn.Shared.csproj", "{8DD5CF30-776D-4CFB-B95F-B3398A5DE30A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YouLearn.Api", "YouLearn.Api\YouLearn.Api.csproj", "{1AA1729C-6FC8-48E1-826E-77822E64827D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218627A1-A2FC-488B-BDFA-5063790EE38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218627A1-A2FC-488B-BDFA-5063790EE38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218627A1-A2FC-488B-BDFA-5063790EE38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218627A1-A2FC-488B-BDFA-5063790EE38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF0A174-2CD7-435A-A935-8432BD00E957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF0A174-2CD7-435A-A935-8432BD00E957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF0A174-2CD7-435A-A935-8432BD00E957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF0A174-2CD7-435A-A935-8432BD00E957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD5CF30-776D-4CFB-B95F-B3398A5DE30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD5CF30-776D-4CFB-B95F-B3398A5DE30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD5CF30-776D-4CFB-B95F-B3398A5DE30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD5CF30-776D-4CFB-B95F-B3398A5DE30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA1729C-6FC8-48E1-826E-77822E64827D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA1729C-6FC8-48E1-826E-77822E64827D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA1729C-6FC8-48E1-826E-77822E64827D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA1729C-6FC8-48E1-826E-77822E64827D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF31041-215C-4EB1-8530-8591DD5DF0EB}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://guilhrmesouza15.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = YouLearn.Api\\YouLearn.Api.csproj
+		SccProjectName1 = YouLearn.Api
+		SccLocalPath1 = YouLearn.Api
+		SccProjectUniqueName2 = YouLearn.Domain\\YouLearn.Domain.csproj
+		SccProjectName2 = YouLearn.Domain
+		SccLocalPath2 = YouLearn.Domain
+		SccProjectUniqueName3 = YouLearn.Infra\\YouLearn.Infra.csproj
+		SccProjectName3 = YouLearn.Infra
+		SccLocalPath3 = YouLearn.Infra
+		SccProjectUniqueName4 = YouLearn.Shared\\YouLearn.Shared.csproj
+		SccProjectName4 = YouLearn.Shared
+		SccLocalPath4 = YouLearn.Shared
+	EndGlobalSection
+EndGlobal
